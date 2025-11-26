@@ -75,19 +75,22 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
 
 **Project Structure**
    ```text
+
    golomb-ruler-solver/
    ├── GolombRuler.py          # Main algorithm implementation
    ├── README.md               # Project documentation (this file)
    └── .gitignore             # Git ignore file for Python projects
 
 
-**Technologies Used**
-Language: Python 3
-Concepts: Evolutionary Algorithms, Genetic Algorithms, Combinatorial Optimization
-Libraries: random, time, math
+
+## Technologies Used
+
+   Language: Python 3
+   Concepts: Evolutionary Algorithms, Genetic Algorithms, Combinatorial Optimization
+   Libraries: random, time, math
 
 
-Results & Learning
+## Results & Learning
 
 Through this project, I gained deep understanding of:
    Evolutionary Computation: Designing and tuning genetic algorithms
