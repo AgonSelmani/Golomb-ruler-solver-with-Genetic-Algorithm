@@ -58,7 +58,7 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
    ```bash
    python GolombRuler.py
 
-3.**Run the solver**
+3. **Follow the prompts to enter the number of marks (e.g., 5, 6, 7)**
    ```text
    Searching for Golomb Ruler with 5 marks (Known optimal length: 11)
 
@@ -80,7 +80,8 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
    ├── README.md               # Project documentation (this file)
    └── .gitignore             # Git ignore file for Python projects
 
-Technologies Used
+
+**Technologies Used**
 Language: Python 3
 Concepts: Evolutionary Algorithms, Genetic Algorithms, Combinatorial Optimization
 Libraries: random, time, math
