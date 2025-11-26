@@ -58,29 +58,27 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
    ```bash
    python GolombRuler.py
 
-3. Follow the prompts to enter the number of marks (e.g., 5, 6, 7)
+3.**Run the solver**
+   ```text
+   Searching for Golomb Ruler with 5 marks (Known optimal length: 11)
 
-Example
-text
-Searching for Golomb Ruler with 5 marks (Known optimal length: 11)
+   Generation 20: Best length 12 (Fitness: -12.0), Diversity: 45.2
+   Generation 40: Best length 11 (Fitness: -11.0), Diversity: 32.1
 
-Generation 20: Best length 12 (Fitness: -12.0), Diversity: 45.2
-Generation 40: Best length 11 (Fitness: -11.0), Diversity: 32.1
+   Found optimal solution with length 11!
 
-Found optimal solution with length 11!
-
-Solution: [0, 1, 4, 9, 11]
-Length: 11
-Valid Golomb Ruler: Yes
-Execution time: 4.27 seconds
+   Solution: [0, 1, 4, 9, 11]
+   Length: 11
+   Valid Golomb Ruler: Yes
+   Execution time: 4.27 seconds
 
 
-Project Structure
-text
-golomb-ruler-solver/
-├── GolombRuler.py          # Main algorithm implementation
-├── README.md               # Project documentation (this file)
-└── .gitignore             # Git ignore file for Python projects
+**Project Structure**
+   ```text
+   golomb-ruler-solver/
+   ├── GolombRuler.py          # Main algorithm implementation
+   ├── README.md               # Project documentation (this file)
+   └── .gitignore             # Git ignore file for Python projects
 
 Technologies Used
 Language: Python 3
@@ -89,11 +87,11 @@ Libraries: random, time, math
 
 
 Results & Learning
-Through this project, I gained deep understanding of:
 
-Evolutionary Computation: Designing and tuning genetic algorithms
-Constraint Handling: Managing solution validity in optimization problems
-Algorithm Analysis: Evaluating heuristic performance and convergence
-Problem Solving: Applying computational thinking to mathematical challenges
+Through this project, I gained deep understanding of:
+   Evolutionary Computation: Designing and tuning genetic algorithms
+   Constraint Handling: Managing solution validity in optimization problems
+   Algorithm Analysis: Evaluating heuristic performance and convergence
+   Problem Solving: Applying computational thinking to mathematical challenges
 
 The algorithm successfully finds optimal solutions for small instances (n ≤ 8) and provides good approximations for larger problems, demonstrating the power of evolutionary approaches for NP-hard problems.
