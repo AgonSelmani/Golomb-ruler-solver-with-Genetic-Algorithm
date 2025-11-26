@@ -25,7 +25,7 @@ This project implements a Genetic Algorithm from scratch to solve the Golomb Rul
 
 A Golomb Ruler is a set of marks at integer positions along a ruler such that no two pairs of marks are the same distance apart. The goal is to find the shortest possible ruler for a given number of marks. This is an NP-hard combinatorial optimization problem with applications in radio astronomy, sensor placement, and coding theory.
 
-## 🚀 Features
+## Features
 
 - **Complete GA Implementation:** Built from scratch in pure Python
 - **Adaptive Mechanisms:** Dynamic mutation rates and population diversity tracking
@@ -54,11 +54,11 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
    git clone https://github.com/AgonSelmani/golomb-ruler-solver.git
    cd golomb-ruler-solver
    
-2. Run the solver
+2. **Run the solver**
+   ```bash
+   python GolombRuler.py
 
-bash
-python GolombRuler.py
-Follow the prompts to enter the number of marks (e.g., 5, 6, 7)
+3. Follow the prompts to enter the number of marks (e.g., 5, 6, 7)
 
 Example
 text
