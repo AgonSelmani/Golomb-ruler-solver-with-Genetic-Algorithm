@@ -1,7 +1,3 @@
-# Golomb-ruler-solver-with-Genetic-Algorithm
-
-#UNFINISHED************************************
-
 # Golomb Ruler Solver using a Genetic Algorithm
 
 A Python implementation of a Genetic Algorithm to find optimal or near-optimal Golomb Ruler configurations. This project demonstrates the application of evolutionary computation to a non-trivial combinatorial optimization problem.
