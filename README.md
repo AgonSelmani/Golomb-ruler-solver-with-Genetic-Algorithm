@@ -73,7 +73,7 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
    Execution time: 4.27 seconds
 
 
-**Project Structure**
+ **Project Structure**
    ```text
 
    golomb-ruler-solver/
@@ -83,11 +83,11 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
 
 
 
-## Technologies Used
+##Technologies Used
 
-   Language: Python 3
-   Concepts: Evolutionary Algorithms, Genetic Algorithms, Combinatorial Optimization
-   Libraries: random, time, math
+Language: Python 3
+Concepts: Evolutionary Algorithms, Genetic Algorithms, Combinatorial Optimization
+Libraries: random, time, math
 
 
 ## Results & Learning
@@ -99,3 +99,6 @@ Through this project, I gained deep understanding of:
    Problem Solving: Applying computational thinking to mathematical challenges
 
 The algorithm successfully finds optimal solutions for small instances (n ≤ 8) and provides good approximations for larger problems, demonstrating the power of evolutionary approaches for NP-hard problems.
+
+
+
