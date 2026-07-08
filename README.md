@@ -69,14 +69,14 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
    Execution time: 4.27 seconds
 
 
-4. **Project Structure**
-   ```text
+## Project Structure
 
-   golomb-ruler-solver/
-   ├── GolombRuler.py          # Main algorithm implementation
-   ├── README.md               # Project documentation (this file)
-   └── .gitignore             # Git ignore file for Python projects
-
+```text
+Golomb-ruler-solver-with-Genetic-Algorithm/
+├── GolombRuler.py          # Main algorithm implementation
+├── README.md               # Project documentation
+└── .gitignore              # Git ignore file for Python projects
+```
 
 
 
