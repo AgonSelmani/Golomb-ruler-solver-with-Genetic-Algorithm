@@ -69,7 +69,7 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
    Execution time: 4.27 seconds
 
 
- **Project Structure**
+4. **Project Structure**
    ```text
 
    golomb-ruler-solver/
@@ -79,7 +79,8 @@ A Golomb Ruler is a set of marks at integer positions along a ruler such that no
 
 
 
-##Technologies Used
+
+## Technologies Used
 
 Language: Python 3
 Concepts: Evolutionary Algorithms, Genetic Algorithms, Combinatorial Optimization
